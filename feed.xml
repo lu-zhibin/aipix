@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>AiPix_AI图</title>
+    <link href="https://aipix.github.io/feed.xml" rel="self" />
+    <link href="https://aipix.github.io" />
+    <updated>2024-03-11T12:01:01+08:00</updated>
+    <author>
+        <name>文武哥</name>
+    </author>
+    <id>https://aipix.github.io</id>
+
+    <entry>
+        <title>第一篇测试文章</title>
+        <author>
+            <name>文武哥</name>
+        </author>
+        <link href="https://aipix.github.io/di-yi-pian-ce-shi-wen-zhang.html"/>
+        <id>https://aipix.github.io/di-yi-pian-ce-shi-wen-zhang.html</id>
+
+        <updated>2024-03-11T12:01:01+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://aipix.github.io/media/posts/1/1.png" height="1024" width="1024" alt=""  sizes="100vw" srcset="https://aipix.github.io/media/posts/1/responsive/1-xs.png 300w ,https://aipix.github.io/media/posts/1/responsive/1-sm.png 480w ,https://aipix.github.io/media/posts/1/responsive/1-md.png 768w ,https://aipix.github.io/media/posts/1/responsive/1-lg.png 1024w ,https://aipix.github.io/media/posts/1/responsive/1-xl.png 1360w ,https://aipix.github.io/media/posts/1/responsive/1-2xl.png 1600w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
